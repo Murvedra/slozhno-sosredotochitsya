@@ -282,7 +282,6 @@
 
 .section-how__title {
   margin-block-end: 20px;
-  font-family: inherit;
 }
 
 @media (width >= 768px) {
